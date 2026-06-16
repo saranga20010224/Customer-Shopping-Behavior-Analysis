@@ -127,7 +127,7 @@ An interactive dashboard was developed to visualize customer shopping patterns a
 
 ### Customer Shopping Behavior Analytics Dashboard
 
-![Dashboard Preview](screenshots/customer_behavior.png)
+![Dashboard Preview](Screenshots/Dashboard.png)
 
 ---
 
